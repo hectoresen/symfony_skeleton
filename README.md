@@ -24,3 +24,10 @@ Down
 ```bash
 symfony server:stop
 ```
+
+## Making controllers
+```bash
+php bin/console make:controller HomeController
+```
+They can also be done manually
+
